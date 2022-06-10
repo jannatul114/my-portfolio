@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/F8DKKcy/last-assignment.png",
+        "name": "Lasure Carpency",
+        "tools": "React, CSS, Javascript, Tailwind, DaisyUi, Mongodb, Firebase",
+        "description": "This is a manufacture releted website. I have added some awsome features in this project like animation, admin role, payment method, order , add review etc.This website is fully responsive.",
+        "code": "https://github.com/jannatul114/Laser-carpentry-client",
+        "server": "https://github.com/jannatul114/laser-carpentry-server",
+        "link": "https://jenelix-manufecturer.web.app/"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/0Yjh4M4/project-ssss-2.png",
+        "name": "Fruits valley",
+        "tools": "React, CSS, Javascript, Bootstrap, Mongodb, Firebase ",
+        "description": "This is a warehouse management releted website. user can add product, update product stuok, delete product, authintacated by firebase etc. I have added some awsome features in this project like animation, admin role, payment method, order , add review etc.This website is fully responsive.",
+        "code": "https://github.com/jannatul114/warehouse-management",
+        "server": "https://github.com/jannatul114/warehouse-management-server",
+        "link": "https://fruits-valley.web.app/"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/7nD9xC3/project-ssss-3.png",
+        "name": "Todo App",
+        "tools": "React, CSS, Javascript, Bootstrap, Mongodb, Firebase ",
+        "description": "This is a todo-list releted website. user can add tasks, complete task, delete tasks etc. This website is fully responsive.",
+        "code": "https://github.com/jannatul114/warehouse-management",
+        "server": "https://github.com/jannatul114/warehouse-management-server",
+        "link": "https://todo-app-client-side.web.app/"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/zFWSVK1/project-ss-1.png",
+        "name": "Photographic Place",
+        "tools": "React, CSS, Javascript, Bootstrap, tailwind, Firebase ",
+        "description": "This is a Independ service provider releted website. management releted website. user can add product, update product stuok, delete product, authintacated by firebase etc. I have added some awsome features in this project like animation, admin role, payment method, order , add review etc.This website is fully responsive.",
+        "code": "https://github.com/jannatul114/photographic-place",
+        "link": "https://photographic-place.web.app/"
+    }
+]
