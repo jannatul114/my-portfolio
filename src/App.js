@@ -11,6 +11,7 @@ import {
   Route,
 } from "react-router-dom";
 import ProjectDetailse from './Components/Projects/ProjectDetailse/ProjectDetailse';
+import Blogs from './Components/Blogs/Blogs';
 
 function App() {
   useEffect(() => {
@@ -22,6 +23,7 @@ function App() {
       <Routes>
         <Route path='/home' element={<Home />}></Route>
         <Route path='/' element={<Home />}></Route>
+        <Route path='/blogs' element={<Blogs />}></Route>
         <Route path='/projectdetailse/:id' element={<ProjectDetailse />}></Route>
       </Routes>
       <ToastContainer />
